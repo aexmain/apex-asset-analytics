@@ -1,0 +1,4 @@
+benchmark_id,benchmark_name,benchmark_type,description
+BM01,Apex Growth Index,Equity,Mid and large cap growth-oriented equity index
+BM02,Apex Balanced Blend Index,Blend,65% Apex Broad Equity and 35% Apex Debt composite
+BM03,Apex Large Cap 50 Index,Equity,Top 50 companies by free-float market capitalisation

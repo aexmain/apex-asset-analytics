@@ -1,0 +1,4 @@
+fund_id,fund_name,strategy,benchmark_id,base_currency,inception_date
+F01,Apex Growth Fund,Growth equity,BM01,INR,2020-01-01
+F02,Apex Balanced Fund,Equity and debt mix,BM02,INR,2020-01-01
+F03,Apex Large Cap Fund,Large cap equity,BM03,INR,2020-01-01

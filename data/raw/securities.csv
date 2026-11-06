@@ -1,0 +1,51 @@
+security_id,security_name,sector,asset_class,market_cap_category,currency
+EQ001,Meridian Bank Ltd,Banking,Equity,Large,INR
+EQ002,Crestline Finance Corp,Banking,Equity,Large,INR
+EQ003,Harbor Trust Bank,Banking,Equity,Large,INR
+EQ004,Sunvale Housing Finance,Banking,Equity,Mid,INR
+EQ005,Pinnacle Small Finance Bank,Banking,Equity,Small,INR
+EQ006,Nimbus Software Ltd,IT,Equity,Large,INR
+EQ007,Quantora Technologies,IT,Equity,Large,INR
+EQ008,Vertex Digital Services,IT,Equity,Mid,INR
+EQ009,Lumen Analytics Ltd,IT,Equity,Mid,INR
+EQ010,Cobalt Cloud Systems,IT,Equity,Small,INR
+EQ011,Veridian Pharma Ltd,Pharma,Equity,Large,INR
+EQ012,Aurelia Healthcare,Pharma,Equity,Large,INR
+EQ013,Novacure Laboratories,Pharma,Equity,Mid,INR
+EQ014,Bioforge Therapeutics,Pharma,Equity,Mid,INR
+EQ015,Medisphere Diagnostics,Pharma,Equity,Small,INR
+EQ016,Solaris Power Corp,Energy,Equity,Large,INR
+EQ017,Titan Petrochemicals Ltd,Energy,Equity,Large,INR
+EQ018,Greenfield Renewables,Energy,Equity,Mid,INR
+EQ019,Ironwood Oil and Gas,Energy,Equity,Mid,INR
+EQ020,Voltaic Grid Solutions,Energy,Equity,Small,INR
+EQ021,Hearthstone Consumer Ltd,FMCG,Equity,Large,INR
+EQ022,Golden Harvest Foods,FMCG,Equity,Large,INR
+EQ023,Fresco Beverages,FMCG,Equity,Mid,INR
+EQ024,Silkroute Personal Care,FMCG,Equity,Mid,INR
+EQ025,Urban Pantry Brands,FMCG,Equity,Small,INR
+EQ026,Stallion Motors Ltd,Auto,Equity,Large,INR
+EQ027,Aeroline Automotive,Auto,Equity,Large,INR
+EQ028,Torque Dynamics,Auto,Equity,Mid,INR
+EQ029,Zephyr Electric Mobility,Auto,Equity,Mid,INR
+EQ030,Axle and Gear Components,Auto,Equity,Small,INR
+EQ031,Ferrous Steel Corp,Metals,Equity,Large,INR
+EQ032,Alumina Works Ltd,Metals,Equity,Large,INR
+EQ033,Copperline Industries,Metals,Equity,Mid,INR
+EQ034,Zincor Resources,Metals,Equity,Small,INR
+EQ035,Titanex Alloys,Metals,Equity,Small,INR
+EQ036,Bridgeway Infra Ltd,Infrastructure,Equity,Large,INR
+EQ037,Monolith Cement,Infrastructure,Equity,Large,INR
+EQ038,Skyline Realty Developers,Infrastructure,Equity,Mid,INR
+EQ039,Portgate Logistics,Infrastructure,Equity,Mid,INR
+EQ040,Railforge Engineering,Infrastructure,Equity,Small,INR
+BD001,Government Securities 2030,Government Bonds,Debt,Not Applicable,INR
+BD002,Government Securities 2035,Government Bonds,Debt,Not Applicable,INR
+BD003,State Development Loan 2032,Government Bonds,Debt,Not Applicable,INR
+BD004,Meridian Bank Bond 2029,Corporate Bonds,Debt,Not Applicable,INR
+BD005,Solaris Power Debenture 2031,Corporate Bonds,Debt,Not Applicable,INR
+BD006,Ferrous Steel NCD 2028,Corporate Bonds,Debt,Not Applicable,INR
+CS001,Liquid Cash Reserve,Cash and Equivalents,Cash,Not Applicable,INR
+CS002,Overnight Fund,Cash and Equivalents,Cash,Not Applicable,INR
+CS003,Treasury Bill 91-Day,Cash and Equivalents,Cash,Not Applicable,INR
+CS004,Money Market Fund,Cash and Equivalents,Cash,Not Applicable,INR
